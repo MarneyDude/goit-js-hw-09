@@ -1,5 +1,5 @@
 /* Common styles */
-@import url('./reset.css');
-@import url('./gallery.css');
-@import url('./form.css');
-@import url('./main.css');
+@import './reset.css';
+@import './gallery.css';
+@import './form.css';
+@import './main.css';
