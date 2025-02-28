@@ -97,4 +97,3 @@ let lightbox = new SimpleLightbox('.gallery a', {
   overlayOpacity: 1,
   captionPosition: 'top',
 });
-console.log(' lightbox:', lightbox);
